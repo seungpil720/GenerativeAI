@@ -1,6 +1,9 @@
 Flask
 gunicorn
 pandas
-scipy
 numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
 openpyxl
